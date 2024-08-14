@@ -18,7 +18,7 @@
 
 📫 How to reach me:  
 - Email: parthibmudi9534@gmail.com  
-- LinkedIn: [[Parthib Mudi]((https://www.linkedin.com/in/parthib-mudi-1852551b7/)) ]
+- LinkedIn: [Parthib Mudi](https://www.linkedin.com/in/parthib-mudi-1852551b7/)
 - GitHub: [@ParthibMudi](https://github.com/ParthibMudi)
 
 😄 Pronouns: He/Him  
