@@ -8,8 +8,7 @@
 
 🌱 I’m currently learning:  
 - PyTorch and Advanced Deep Learning Techniques  
-- Cryptography 
-- UNet Algorithm  
+- yolo algo
 
 💞️ I’m looking to collaborate on:  
 - Open Source AI/ML Projects  
